@@ -1,0 +1,21 @@
+{
+  "name": "extendscriptr-examples",
+  "version": "1.0.0",
+  "description": "A list of example on how to use extendscriptr",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/extendscriptr-examples.git"
+  },
+  "keywords": [
+  ],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vogelino/extendscriptr-examples/issues"
+  },
+  "homepage": "https://github.com/vogelino/extendscriptr-examples#readme",
+  "dependencies": {
+    "extendscriptr": "^1.0.1"
+  }
+}
